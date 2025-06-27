@@ -113,6 +113,16 @@ Defines a method for calculating shipping costs. Implementations:
 
 ---
 
+## My Contributions
+
+This was a collaborative project, and my personal contributions included:
+
+- Designing and implementing the `Product` class structure.
+- Developing the abstract `Payment` system and its subclasses (`CreditCardPayment`, `EFTPayment`).
+- Creating the `Main.java` file, which handles program execution and user interaction flow.
+
+---
+
 ## Authors
 
 - Özlem EKER  
